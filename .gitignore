@@ -1,0 +1,16 @@
+#IDEA
+**/.idea/
+**/*.iml
+
+#Compile folder
+**/target/
+
+#Local log output
+**/logs/
+
+#Ignore .DS_Store file
+**/.DS_Store
+
+.settings
+.project
+.classpath
